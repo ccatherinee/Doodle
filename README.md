@@ -7,3 +7,5 @@ Key features I identified which set Doodle (and thus Doodle 2.0) apart from When
 - being able to sort the dates by the number of people available or by the order of the dates (in order to trigger this feature in Doodle 2.0, simply click the "Others available" column header - this will sort the days by the "Others available" column)
 
 You can find the app hosted at: https://powerful-headland-93193.herokuapp.com
+
+I used https://www.samuelliedtke.com/blog/react-table-tutorial-part-1/ as a reference when writing my table component and https://codesandbox.io/s/beautiful-tdd-iph378?file=/src/App.js:283-294 as a reference when writing my button component. 
