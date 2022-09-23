@@ -6,4 +6,4 @@ Key features I identified which set Doodle (and thus Doodle 2.0) apart from When
 - only being able to see/consider times the host or creator of the poll selects 
 - being able to sort the dates by the number of people available or by the order of the dates (in order to trigger this feature in Doodle 2.0, simply click the "Others available" column header - this will sort the days by the "Others available" column)
 
-You can find the app hosted at: 
+You can find the app hosted at: https://powerful-headland-93193.herokuapp.com
