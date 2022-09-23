@@ -3,7 +3,7 @@
 import "./index.css"
 // states in react allow us to have state variables for our button 
 // in this case, the state variable keeps track of whether the button is yes, no or maybe 
-import { useState } from "react";
+import React, { useState } from "react";
 
 export default function Button() {
     // 0: No, 1: Yes, 2: Maybe

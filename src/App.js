@@ -133,6 +133,8 @@ function App() {
   
   // instantiate a Table component 
   // populate the table with the columns and data defined above 
+
+  // create a Submit button at the bottom which allows user to submit their availability 
   return (
     <div>
       <h1>
@@ -142,6 +144,8 @@ function App() {
         *Click the "Others available" column head to sort dates by number of other people already available!
       </h4>
       <Table columns={columns} data={data} />
+
+      <button onClick={()=> alert("Thank you for submitting your availability!")}>Submit</button>
     </div>
   );
 }
